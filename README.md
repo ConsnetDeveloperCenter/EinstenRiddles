@@ -1,9 +1,7 @@
 # Einsten Riddles
 ###Einstein Riddles 
 
-Who created this riddle is really uknown though people generally attribute it to Einstein - that is no issue for us. Whether only 2% of the world's populace can solve this riddle is a question for another day. 
-
-It is an interesting problem to solve by pen and paper but our interests go beyond that - thus the creation of this repository.
+Who created this riddle or exactly how many people can solve this riddle is a question for another day. It is just an interesting problem to solve by pen and paper but our interests go beyond that - thus the creation of this repository.
 
 The point of this exercise is to create a programmatic solution in  a language of your choice : Java, Python, C++ ...whatever the language you prefer or think would make solving this problem easier. 
 
@@ -11,14 +9,29 @@ Please refer to the problem set in the **problem-set.md** file.
 
 All the best!
 
-### No Gtthub Account 
+###How do I contribute my solution?
 
-If you have no github account, please create one and try and solve this problem. When you are satisfied with your solution, or even when you think you might need help, please do create a pull request so we can include your solution in this repository. 
+*   Fork https://github.com/ConsnetDeveloperCenter/EinstenRiddles on github.
 
-### Read Me
+*   Make a subdirectory for your language, if it isn't already there
 
-It would be nicer if you could also create a readme for your solution. Refer to the following link for the syntax you can use in creating md files:
+*   Put your code in a subdirectory named with your github username
 
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+    > eg. java/johndoe
+
+*   Include a README file with instructions on how to build/run your
+    code. It needs to be a Makefile. Also, describe your solution if you feel like it.
+    Refer to this link for help on the syntax
+      https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+*   before you create a pull request, please make sure that your repository is up to date:
+
+    > $ git pull --rebase
+
+*   Send me a pull request so that your solution is included with the
+    others. By doing this you agree that your code may be used by
+    anyone for any purpose. If you use someone elses code it will be
+    nice to give him/her credit. 
+
 
 
