@@ -1,5 +1,6 @@
-# Einsten Riddles
-###Einstein Riddles 
+
+Einstein Riddle
+====================
 
 Who created this riddle or exactly how many people can solve this riddle is a question for another day. It is just an interesting problem to solve by pen and paper but our interests go beyond that - thus the creation of this repository.
 
@@ -7,10 +8,9 @@ The point of this exercise is to create a programmatic solution in  a language o
 
 Please refer to the problem set in the **problem-set.md** file. 
 
-All the best!
 
-###How do I contribute my solution?
-
+How do I contribute my solution?
+========================================
 *   Fork https://github.com/ConsnetDeveloperCenter/EinstenRiddles on github.
 
 *   Make a subdirectory for your language, if it isn't already there
