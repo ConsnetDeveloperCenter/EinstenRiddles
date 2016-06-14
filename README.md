@@ -28,7 +28,7 @@ How do I contribute my solution?
 
     > $ git pull --rebase
 
-*   Send me a pull request so that your solution is included with the
+*   Send a pull request so that your solution is included with the
     others. By doing this you agree that your code may be used by
     anyone for any purpose. If you use someone elses code it will be
     nice to give him/her credit. 
